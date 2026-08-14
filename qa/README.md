@@ -18,7 +18,7 @@ Manual functional testing covering the main features of the app:
 
 | File | Contents |
 | --- | --- |
-| `test-cases/Test_Report.xlsx` | Contains 3 sheets: TS (Test Suites), TC (Test Cases), and Bug Report |
+| `qa/Test_Report.xlsx` | Contains 3 sheets: TS (Test Suites), TC (Test Cases), and Bug Report |
 
 - **TS** — High-level grouping of test cases by feature area
 - **TC** — Detailed test cases including steps, expected result, actual result, and test status
