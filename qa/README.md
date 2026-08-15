@@ -24,6 +24,15 @@ Manual functional testing covering the main features of the app:
 - **TC** — Detailed test cases including steps, expected result, actual result, and test status
 - **Bug Report** — Defects found during testing, including severity and reproduction steps
 
+## Summary
+
+- Total test cases: 59
+- Passed: 49
+- Failed: 10
+- Bugs logged: 5 (1 High, 3 Medium, 1 Low)
+
+Breakdown by screen: Register (13), Login (7), Profile (9), Timetable (15), Planner (10), Dashboard (5)
+
 ## Testing Approach
 
 - Manual functional testing
